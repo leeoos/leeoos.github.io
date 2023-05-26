@@ -1,2 +1,2 @@
 # Personal website
-[[leeoos.github.io]]
+[link](https://leeoos.github.io)
